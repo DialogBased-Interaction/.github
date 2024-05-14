@@ -8,6 +8,11 @@ The **Goal Alignment via Dialogue based Interaction** project aims to align user
 - **FastChat Platform**: We utilize the FastChat platform for efficient and context-aware interactions.
 - **Model Fine-Tuning**: Fine-tuning of language models (e.g., Vicuna 7B, Vicuna 13B ...).
 - **Mind2Web Dataset**: Our training data comes from the Mind2Web dataset, which provides diverse conversational examples for generalized tasks.
+- **RAG based Memory bank**: Repetitive tasks will not require execution details every time. It will be fetched from the RAG-based memory bank
+
+## Overall Pipeline
+![# of conversation graph](https://dxpcgmtdvyvcxbaffqmt.supabase.co/storage/v1/object/public/demo/pipeline.png)
+
 
 ## Getting Started
 1. Clone this repository from [here](https://github.com/lm-sys/FastChat)
