@@ -41,12 +41,16 @@ scripts for fine tuning can be found in the ./scripts directory
 | AVERAGE BERT SCORE        | 0.95                   | 0.96                   | 0.96                   |
 | AVERAGE # of conversation | 2.52                   | 2.44                   | 2.67                   |
 
+![# of conversation graph](https://dxpcgmtdvyvcxbaffqmt.supabase.co/storage/v1/object/public/demo/number%20of%20conversation.png)
+
 ## Without Mem-bank
 | Evaluation Criteria       | Cross-Task             | Cross-Website          |  Cross-Domain          |
 |---------------------------|------------------------|------------------------|------------------------|
 | AVERAGE BLEU SCORE        | 37.64                  | 39.31                  | 39.87                  |
 | AVERAGE BERT SCORE        | 0.91                   | 0.92                   | 0.94                   |
 | AVERAGE # of conversation | 3.49                   | 3.40                   | 3.66                   |
+
+
 
 ## Improvements
 > We have developed the data generation for the training purpose
